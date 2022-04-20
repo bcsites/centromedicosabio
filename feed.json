@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "centromedicosabio.com",
     "description": "",
-    "home_page_url": "https://bcsites.github.io/centromedicosabio.com",
-    "feed_url": "https://bcsites.github.io/centromedicosabio.com/feed.json",
+    "home_page_url": "https://bcsites.github.io/centromedicosabio",
+    "feed_url": "https://bcsites.github.io/centromedicosabio/feed.json",
     "user_comment": "",
     "author": {
         "name": "Rodrigo Sabio"
     },
     "items": [
+        {
+            "id": "https://bcsites.github.io/centromedicosabio/the-title-of-the-post.html",
+            "url": "https://bcsites.github.io/centromedicosabio/the-title-of-the-post.html",
+            "title": "the title of the post",
+            "summary": "this is the content of the post!",
+            "content_html": "<p>this is the <strong>content</strong> of the post!</p>",
+            "author": {
+                "name": "Rodrigo Sabio"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-20T18:07:03-03:00",
+            "date_modified": "2022-04-20T18:07:17-03:00"
+        }
     ]
 }

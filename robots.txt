@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bcsites.github.io/centromedicosabio.com/sitemap.xml
+Sitemap: https://bcsites.github.io/centromedicosabio/sitemap.xml
